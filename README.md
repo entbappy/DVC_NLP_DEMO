@@ -6,7 +6,7 @@ DVC NLP project
 
 * [DVC STUDIO](https://studio.iterative.ai/)
 
-* [MY View](https://studio.iterative.ai/user/c17hawke/views/DVC-NLP-Simple-usecase-3xolnsi26a)
+* [MY View](https://studio.iterative.ai/user/entbappy/views/DVC_NLP_DEMO-a1uxaxhzil)
 
 ## STEPS -
 
