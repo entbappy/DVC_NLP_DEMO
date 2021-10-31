@@ -8,8 +8,16 @@ artifacts:
   FEATURIZED_DATA: features
   FEATURIZED_OUT_TRAIN: train.pkl
   FEATURIZED_OUT_TEST: test.pkl
+  MODEL_DIR: model
+  MODEL_NAME: model.pkl
 
 
+metrics:
+  SCORES: scores.json
+
+plots:
+  PRC: prc.json
+  ROC: roc.json
 
 source_data:
   data_dir: data
