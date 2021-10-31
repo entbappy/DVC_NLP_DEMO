@@ -8,6 +8,11 @@ DVC NLP project
 
 * [MY View](https://studio.iterative.ai/user/entbappy/views/DVC_NLP_DEMO-a1uxaxhzil)
 
+* [Bag of Words- Krish Naik](https://youtu.be/D2V1okCEsiE)
+
+* [TF-IDF- Krish Naik](https://youtu.be/D2V1okCEsiE)
+
+
 ## STEPS -
 
 ### STEP 01- Create a repository by using template repository
